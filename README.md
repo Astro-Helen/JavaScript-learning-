@@ -1,4 +1,4 @@
-# JavaScript-learning-
+# JavaScript-learning
 JavaScript: Kelvin Weather
 
 
